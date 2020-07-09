@@ -1,4 +1,4 @@
-### Hi there 👋👋
+### Hi 👋👋
 
 Hello👋👋,I'am hack-fang(Chinese name:kai.fang),A Full Stack Developer, I use Golang/Python/Vuejs.
 
