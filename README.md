@@ -1,8 +1,8 @@
 ### Hi 👋👋
 
-Hello👋👋,I'am hack-fang(Chinese name:kai.fang),A Full Stack Developer, I use Golang/Python/Vuejs.
+Hello👋👋,I'am hack-fang(Chinese name:kai.fang),A Full Stack Developer, I use Golang/Python.
 
-- 🌱 I’m currently working at beijing. 
+- 🌱 I’m currently finding a job in beijing. 
 - 📫 How to reach me: kaifang.1995@gmail.com
 - ⚡ Fun fact: I love diys and programming.
 
